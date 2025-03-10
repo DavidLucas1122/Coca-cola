@@ -3,3 +3,28 @@
     margin: 0;
     box-sizing: 0;
 }
+
+body{
+    width: 100vh;
+    height: 100vh;
+    flex-direction: column;
+    background: linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
+}
+
+header, footer{
+    height: 100px;background-color: #CF2425;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20x;
+}
+
+main{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #DA6062;
+
+}
