@@ -5,19 +5,20 @@
 }
 
 body {
-    width: 100vh;
+    width: 100vw;
     height: 100vh;
     flex-direction: column;
     background: linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
 }
 
 header, footer {
-    height: 100px;background-color: #CF2425;
+    height: 100px;
     color: #fff;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 20x;
+    background-color: #CF2425;
 }
 
 header {
