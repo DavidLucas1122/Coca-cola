@@ -8,7 +8,7 @@ body {
     width: 100vw;
     height: 100vh;
     flex-direction: column;
-    background: linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
+    background: linear-gradient(#007A3D, #fbfbfb, #007A3D);
 }
 
 header, footer {
@@ -18,10 +18,6 @@ header, footer {
     align-items: center;
     justify-content: space-between;
     padding: 0 20x;
-    background-color: #CF2425;
-}
-a{
-    color: #fff;
 }
 
 header {
@@ -36,6 +32,10 @@ header {
 
 header span {
     font-weight: 600;
+}
+
+a{
+    color: #fff;
 }
 
 main {
