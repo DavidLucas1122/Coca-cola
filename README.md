@@ -12,7 +12,7 @@ O site foi desenvolvido utilizando boas práticas, como por exemplo tags semânt
 * Media Queries
 
 ## Autor 
-[David Lucas] ([def])
+[David Lucas](<def>)
 
 [def]: https://www.linkedin.com/in/david-lucas-19370727b/
 [def2]: Print.png
